@@ -1,5 +1,11 @@
 # Solar.mini
 
+Made by a small group of students in Berlin who are also part of the international 'open source ecology' network the r0g_solar.mini is a fast and powerful pocketbook size charger that also simultaneously charges 4 x AA ni-cad batteries.
+
+Although there are numerous mobile solar power chargers on the market, the r0g_solar.mini was developed as a test and demo model of a charger that, with a small amount of training, can be built by anybody and uses common components that are readily available. The design the r0g_solar.mini is also open source, so it's copying, use and distribution - including development and marketing by anybody is both allowed and encouraged.
+
+
+
 refer to "Open Hardware Guide" for images
 
 Solar Charger
