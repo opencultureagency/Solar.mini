@@ -1,5 +1,7 @@
 # Solar.mini
 
+refer to "Open Hardware Guide" for images
+
 Solar Charger
 Open Hardware Guide
 
